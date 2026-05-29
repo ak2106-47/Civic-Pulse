@@ -1,11 +1,9 @@
-# 🌱 Civic Pulse
+# 🏘️ Civic Pulse
 **A data-driven snapshot of how every neighborhood is holding up**
 
 Civic Pulse is an AI-assisted platform that grades neighborhoods on environmental health, infrastructure quality, and day-to-day livability. Each neighborhood gets a **Green Score from 1 to 10**, calculated from more than a dozen sustainability signals stitched together from live data sources — paired with a chatbot that runs on low-carbon AI infrastructure so the tool itself stays light on emissions.
 
-![Civic Pulse Hero](https://img.shields.io/badge/Status-Hackathon_MVP-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue) ![Python](https://img.shields.io/badge/Python-3.8+-green) ![React](https://img.shields.io/badge/React-18+-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-Latest-teal)
-
-## 🎯 What's inside
+## 🗂️ What's inside
 
 ### 🗺️ **3D neighborhood map**
 - Live 3D rendering powered by Mapbox GL JS
@@ -19,7 +17,7 @@ Civic Pulse is an AI-assisted platform that grades neighborhoods on environmenta
 - Context-aware answers about specific neighborhoods and comparisons
 - Per-message token usage shown alongside its emissions cost
 
-### 📊 **How the score is built**
+### 🎼 **How the score is built**
 **Five category groups feed the final number:**
 - **Environment**: air, vegetation cover, water
 - **Infrastructure**: power reliability, road condition, cleanliness
@@ -27,7 +25,7 @@ Civic Pulse is an AI-assisted platform that grades neighborhoods on environmenta
 - **Sustainability**: renewables, recycling, circular practices
 - **Disaster risk (LEWC)**: climate resilience and hazard exposure
 
-### 🔍 **The data pipeline**
+### 📊 **The data pipeline**
 - **Aggregates across sources**: OpenStreetMap, public-sector APIs, real-time sensor feeds
 - **Auto-detects neighborhoods** with geographic validation
 - **AI-written explanations** through the Cerebras Cloud SDK
@@ -56,7 +54,7 @@ Civic Pulse/
     └── JSON export
 ```
 
-## 🚀 Getting started
+##  Getting started
 
 ### Prerequisites
 - **Node.js** 18+ with npm
